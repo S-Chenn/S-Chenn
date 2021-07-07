@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S-Chenn
-- 👀 I’m interested in Next.js and Flutter
+- 👀 I’m interested in Laravel
 - 🌱 I’m currently learning Vue.js and Nuxt.js
 
 <!---
