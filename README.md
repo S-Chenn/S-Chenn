@@ -8,3 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Chenn&count_private=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S-Chenn)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Chenn&count_private=true)
