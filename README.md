@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Chenn
 - 👀 I’m interested in Laravel
-- 🌱 I’m currently learning Vue.js and Nuxt.js
+- 🌱 I’m currently learning React.js and Next.js
 
 <!---
 S-Chenn/S-Chenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
